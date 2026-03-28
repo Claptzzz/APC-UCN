@@ -1,8 +1,9 @@
 #include <bits/stdc++.h>
-
 using namespace std;
-
 #define int long long
+
+// https://codeforces.com/contest/2128/problem/A
+// rating: 800
 
 signed main() {
 
